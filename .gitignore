@@ -1,0 +1,27 @@
+# Environnements
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bases locales
+*.db
+*.sqlite3
+app.db
+test.db
+db.sqlite3
+
+# Env vars
+.env
+
+# Pytest cache & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VSCode
+.vscode/
