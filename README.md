@@ -21,10 +21,6 @@ Exemples d’utilisation
 
 Tests
 
-Bonnes pratiques
-
-Licence
-
 ✨ Fonctionnalités
 Inscription d’utilisateurs (/auth/register)
 
